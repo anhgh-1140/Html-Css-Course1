@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+}
+.title {color: white;}
+.content {color: white;}
+
+
+.container {
+    background-color:red;
+    width: 500px;
+    height: 200px;
+    border: 2px solid white;
+
