@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mai xinh dep</title>
+</head>
+<body>
+    <h1>Hello Comtor</h1>
+    <h3>I'm Mai</h3>
+    <p>Đoạn văn</p>
+    <input type="text" placeholder="Enter here...">
+    <a href="https://google.com">click here</a>
+    <img src="https://images.app.goo.gl/4SqeNhX2ZAU6fCue8" alt="">
+</body>
+</html>
