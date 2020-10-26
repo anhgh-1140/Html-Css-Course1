@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+.container {
+    border: 1px solid white;
+    width: 37%;
+    padding-bottom: 38px;
+}
